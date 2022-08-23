@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Google Meet Alpha+",
+    "description": "Entrar no Google Meet em horário agendado",
+    "version": "1.0",
+    "icons": {
+        "128": "video-call.png"
+    },
+    "browser_action":{
+        "default_popup": "index.html"
+    }    
+}
